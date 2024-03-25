@@ -1,6 +1,4 @@
 
-Apologies for the misunderstanding. Let's create a README specifically focusing on SQL queries, including examples of subqueries, the EXISTS keyword, and joins.
-
 SQL Query Examples
 This README provides examples and explanations of common SQL queries, including subqueries, the EXISTS keyword, and joins.
 
